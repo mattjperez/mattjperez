@@ -1,8 +1,15 @@
 ### Hi there 👋
 
-I'm a former network engineer in the US Marines and (after a windy road) am studying computer science and learning spanish while living in Medellín, Colombia. I lived in Tokyo for a number of years where I studied international business and enjoyed some of the best food on earth. Whether it's food, culture, martial arts, lifting, scuba diving, or salsa dancing, we could probably talk for quite a while 😄. 
+Hello! I'm currently working as a software engineer at Asimetrix, an IoT and analytics company based in Medellín, Colombia. I'm also an incoming grad student at Georgia Tech's online computer science program.
 
-- 🔭 I’m currently taking systems courses from Harvard Extension School. While I'm not able to post them publically, some of the work I've done recently includes: creating a custom malloc interface, defusing binary bombs, virtual memory management for kernel and processes, reimplement stio cache, add piping and redirection functionality to shell, and fix synchronization issues in a network pong game.
-- 🌱 I started learning Rust a few months ago and would like to collaborate on projects where I can use and learn more about it. It was a big leap for me going from python to Rust, but in doing so I learned about a lot of things that are now primary areas of interest to me, namely systems level programming. 
+Before that, I was a network engineer in the US Marines, a business student in Tokyo, an investment analyst, and even had an e-commerce project. The data analytics of that project started a windy road that eventually led me to software engineering.
+
+For work I mainly use Python, however Rust is my language of choice. I'm also familiar with C, Javascript, and Java.
+
+While my pandemic hobby has become attending virtual Rust meetups, I also enjoy lifting weights, Brazilian Jiu-jitsu, scuba diving, and cabalgatas (riding horses in the mountains).
+
+I like discussing software, business, and finance. My international business background and budding tech career lets me appreciate everything from the business model and market fit to technical implementations.
+
+- 🌱 My (Blog)[https://mperez.io]
 - 📫 How to reach me: matt@mperez.io
 -  Pronouns: he/him/his
