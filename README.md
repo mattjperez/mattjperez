@@ -4,7 +4,7 @@ Hello! I'm Matt, a software engineer and graduate student at Georgia Tech's onli
 
 Before learning to code, I was a network engineer in the US Marines, a business student in Tokyo, an investment analyst, and even had an e-commerce project. The data analytics of that project started a windy road that eventually led me to software engineering.
 
-I mainly use Rust and Python, however I'm also familiar with C and Typescript.
+For programming, I prefer Rust and Python, however I'm also familiar with C and Typescript.
 
 I enjoy lifting weights, Brazilian Jiu-jitsu, scuba diving, and cabalgatas (riding horses in the mountains).
 
