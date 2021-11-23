@@ -10,6 +10,7 @@ I enjoy lifting weights, Brazilian Jiu-jitsu, scuba diving, and cabalgatas (ridi
 
 I like discussing software, business, and finance. My international business background and budding tech career lets me appreciate everything from the business model and market fit to technical implementations.
 
+- 🐦Twitter: [mattjperez](https://twitter.com/mattjperez)
 - 🌱 Blog: [mperez.io](https://mperez.io)
 - 📫 How to reach me: matt@mperez.io
 -  Pronouns: he/him/his
